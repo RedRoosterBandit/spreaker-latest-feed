@@ -1,0 +1,8 @@
+{
+  "name": "spreaker-feed",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build-feed": "node generate-feed.js"
+  }
+}
