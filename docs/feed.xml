@@ -5,6 +5,14 @@
 <link>https://www.spreaker.com/show/6900254</link>
 
 <item>
+<title><![CDATA[Trailer]]></title>
+<link>https://www.spreaker.com/episode/trailer--71192323</link>
+<description><![CDATA[]]></description>
+<pubDate>Wed, 08 Apr 2026 19:03:44 GMT</pubDate>
+<guid>71192323</guid>
+<enclosure url="https://api.spreaker.com/v2/episodes/71192323/download.mp3" type="audio/mpeg"/>
+</item>
+<item>
 <title><![CDATA[What Logan Paul Taught Shawn Kallet About Marketing]]></title>
 <link>https://www.spreaker.com/episode/what-logan-paul-taught-shawn-kallet-about-marketing--71124087</link>
 <description><![CDATA[]]></description>
@@ -35,14 +43,6 @@
 <pubDate>Wed, 25 Mar 2026 21:47:44 GMT</pubDate>
 <guid>70879966</guid>
 <enclosure url="https://api.spreaker.com/v2/episodes/70879966/download.mp3" type="audio/mpeg"/>
-</item>
-<item>
-<title><![CDATA[Reach on Reels - What's the Ideal Length of a Reel?]]></title>
-<link>https://www.spreaker.com/episode/reach-on-reels-what-s-the-ideal-length-of-a-reel--70838075</link>
-<description><![CDATA[]]></description>
-<pubDate>Mon, 23 Mar 2026 20:46:44 GMT</pubDate>
-<guid>70838075</guid>
-<enclosure url="https://api.spreaker.com/v2/episodes/70838075/download.mp3" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
